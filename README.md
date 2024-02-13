@@ -1,6 +1,6 @@
 # Webpack to Vite Extension Migrator
 
-This tool facilitates the migration of imports of webpack-based app project Vite. Transitioning to Vite can offer improved performance and developer experience.
+One key difference between Webpack and Vite is the requirement for file extensions in imports. While Webpack can resolve imports without explicit file extensions, Vite requires them. This script should help you fill in all needed file extensions :)
 
 ## How to Use
 
